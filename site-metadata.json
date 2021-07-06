@@ -137,6 +137,17 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://facebook.com/sustainabiliteens",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
@@ -175,17 +186,6 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://facebook.com/sustainabiliteens",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
