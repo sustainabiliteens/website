@@ -3,9 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Sustainabiliteens
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      **HIGH SCHOOL STUDENTS FIGHTING FOR CLIMATE JUSTICE ACROSS METRO VANCOUVER
+      ON THE UNCEDED LANDS OF THE XʷMƏΘKʷƏY̓ƏM (MUSQUEAM), SKWXWÚ7MESH
+      (SQUAMISH), SƏL̓ILWƏTAʔꞭ (TSLEIL-WAUTUTH), Q̓ʷⱭ:N̓ƛ̓ƏN̓ (KWANTLEN),
+      Q̓ÍC̓ƏY̓ (KATZIE), SCƏW̓AΘƏN (TSAWWASSEN), KʷIKʷƏƛ̓ƏM (KWIKWETLEM), QIQÉYT
+      (QAYQAYT), SEMIAHMOO, MATSQUI AND STÓ:LŌ PEOPLES.**
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
