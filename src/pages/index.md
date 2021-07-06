@@ -9,10 +9,6 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - type: action
-        label: Try Free
-        url: /pricing
-        style: primary
-      - type: action
         label: Learn More
         url: /features
         style: secondary
