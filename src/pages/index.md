@@ -255,7 +255,7 @@ sections:
     title: Get Involved
     actions:
       - type: action
-        label: Button
+        label: Join
         url: /pricing
         style: primary
       - label: Donate
