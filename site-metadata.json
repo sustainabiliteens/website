@@ -27,7 +27,7 @@
             {
                 "type": "action",
                 "label": "Actions",
-                "url": "/about",
+                "url": "/features",
                 "style": "link"
             },
             {
