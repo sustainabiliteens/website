@@ -3,12 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sustainabiliteens
-    content: >
-      **HIGH SCHOOL STUDENTS FIGHTING FOR CLIMATE JUSTICE ACROSS METRO VANCOUVER
-      ON THE UNCEDED LANDS OF THE XʷMƏΘKʷƏY̓ƏM (MUSQUEAM), SKWXWÚ7MESH
-      (SQUAMISH), SƏL̓ILWƏTAʔꞭ (TSLEIL-WAUTUTH), Q̓ʷⱭ:N̓ƛ̓ƏN̓ (KWANTLEN),
-      Q̓ÍC̓ƏY̓ (KATZIE), SCƏW̓AΘƏN (TSAWWASSEN), KʷIKʷƏƛ̓ƏM (KWIKWETLEM), QIQÉYT
-      (QAYQAYT), SEMIAHMOO, MATSQUI AND STÓ:LŌ PEOPLES.**
+    content: "High\_school\_students\_fighting\_for\_climate\_justice\_across\_Metro\_Vancouver\_on\_the\_unceded\_lands\_of\_the\_xʷməθkʷəy̓əm\_(Musqueam),\_Skwxwú7mesh\_(Squamish),\_səl̓ilwətaʔɬ\_(Tsleil-Waututh),\_q̓ʷɑ:n̓ƛ̓ən̓\_(Kwantlen),\_q̓íc̓əy̓\_(Katzie),\_scəw̓aθən\_(Tsawwassen),\_kʷikʷəƛ̓əm\_(Kwikwetlem),\_qiqéyt\_(Qayqayt),\_Semiahmoo,\_Matsqui\_and\_Stó:lō\_peoples.\n"
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
