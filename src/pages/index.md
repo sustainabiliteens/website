@@ -7,11 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
