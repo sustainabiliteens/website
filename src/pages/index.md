@@ -257,7 +257,7 @@ sections:
       - type: action
         label: Join
         url: /pricing
-        style: primary
+        style: secondary
       - label: Donate
         url: '#'
         style: primary
