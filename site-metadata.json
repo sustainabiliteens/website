@@ -91,7 +91,7 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
+                "label": "Actions",
                 "url": "/style-guide",
                 "style": "link"
             }
