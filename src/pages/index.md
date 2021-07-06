@@ -13,6 +13,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/header.jpg
+    background_image_position: center center
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
