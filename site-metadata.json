@@ -64,7 +64,7 @@
             },
             {
                 "type": "action",
-                "label": "Get Started",
+                "label": "Donate",
                 "url": "/pricing",
                 "style": "primary"
             }
