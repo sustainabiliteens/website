@@ -167,7 +167,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Content licensed under "
     },
     "domain": "https://sustainabiliteens.org",
     "favicon": "/images/Sustainabiliteens icon.png"
