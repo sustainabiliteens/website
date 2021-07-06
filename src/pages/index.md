@@ -14,6 +14,23 @@ sections:
     background_color: primary
     background_image: /images/header.jpg
     background_image_position: center center
+  - type: cta_section
+    title: This is Call To Action Section In DIY Theme!
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    actions:
+      - type: action
+        label: Learn More
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
@@ -166,23 +183,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -226,6 +226,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - null
 seo:
   type: stackbit_page_meta
   title: Stackbit DIY Theme
