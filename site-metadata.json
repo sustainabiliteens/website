@@ -60,7 +60,7 @@
                 "type": "action",
                 "label": "Join",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "type": "action",
