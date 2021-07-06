@@ -258,7 +258,7 @@ sections:
         label: Button
         url: /pricing
         style: primary
-      - label: lorem-ipsum
+      - label: Donate
         url: '#'
         style: link
         has_icon: false
