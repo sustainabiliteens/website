@@ -15,6 +15,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: /images/header.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
