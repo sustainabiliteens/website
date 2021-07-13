@@ -102,7 +102,7 @@ sections:
         actions_align: left
         actions_width: auto
       - type: grid_item
-        title: Some City
+        title: Burnaby/New West/Tri-Cities
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>
           [1-234-556-7890](tel:+12345567890)<br/>
