@@ -160,7 +160,6 @@ sections:
     background_color: none
   - type: cta_section
     title: Help Advance Climate Justice
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - type: action
         label: Join Sustainabiliteens
