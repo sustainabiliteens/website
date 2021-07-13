@@ -27,7 +27,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
+          - label: Join Mailing List
             url: '#'
             style: link
             has_icon: false
