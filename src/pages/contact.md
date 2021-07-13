@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Contact Sustainabiliteens
     subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      We love hearing from "Metro Vancouver" residents! Please email us below or
+      message us on social media. For inquiries outside of the region, please
+      contact Climate Strike Canada.
     align: center
     padding_top: small
     padding_bottom: small
