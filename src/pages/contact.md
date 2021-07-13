@@ -57,9 +57,8 @@ sections:
       - type: grid_item
         title: Donations/Finance
         title_align: center
-        content: >
-          Recurring donations assistance, corporate donations approval and
-          grants
+        content: |
+          Donor assistance + approvals, grants and honorariums
         content_align: center
         actions:
           - type: action
