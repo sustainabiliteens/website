@@ -14,7 +14,7 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Partnering and Sponsorships
+        title: General Inquiries
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
