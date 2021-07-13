@@ -113,7 +113,7 @@ sections:
         media_width: fifty
         image: /images/about.jpg
       - type: feature
-        title: Section Title Two
+        title: Our Story
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
