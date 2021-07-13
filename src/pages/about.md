@@ -9,10 +9,49 @@ sections:
     features:
       - type: feature
         title: Our Principles
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          ### We are a movement to stop climate change and reclaim democracy
+
+
+           
+           
+           
+           
+           
+           
+
+          ### We believe in equity and dignity for all
+
+
+           
+           
+           
+           
+
+          ### We are open and accountable
+
+
+           
+           
+           
+           
+
+          ### We are a strong and supportive community
+
+
+           
+           
+           
+           
+           
+
+          ### We are always trying to grow and improve
+
+
+           
+           
+           
+           
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
