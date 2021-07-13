@@ -16,9 +16,8 @@ sections:
       - type: grid_item
         title: General Inquiries
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Intake, partnerships, political + business outreach and questions
         content_align: center
         actions:
           - type: action
