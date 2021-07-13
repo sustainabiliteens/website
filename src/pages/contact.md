@@ -64,7 +64,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Manage Donation
             url: /general-enquiries
             style: primary
             has_icon: true
