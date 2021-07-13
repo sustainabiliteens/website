@@ -8,6 +8,11 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    content: >
+      We love hearing from "Metro Vancouver" residents! Please email us below or
+      message us on social media. For inquiries outside of the region, please
+      [contact Climate Strike
+      Canada](https://climatestrikecanada.org/en/contact).
   - type: grid_section
     grid_items:
       - type: grid_item
