@@ -67,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: Modify Donat
+          - label: Modify Donation
             url: '#'
             style: link
             has_icon: false
