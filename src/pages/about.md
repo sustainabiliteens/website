@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About Sustainabiliteens
+    title: About
     align: center
     background_color: secondary
   - type: features_section
