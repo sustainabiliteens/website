@@ -37,7 +37,7 @@ sections:
         title: Media Relations
         title_align: center
         content: |
-          Action updates and interview + filming requests\</br>
+          Action updates, interview bookings and filming requests
         content_align: center
         actions:
           - type: action
