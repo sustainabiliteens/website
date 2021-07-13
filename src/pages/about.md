@@ -163,7 +163,7 @@ sections:
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - type: action
-        label: Compare Plans
+        label: Join Sustainabiliteens
         url: /pricing
         style: primary
     align: center
