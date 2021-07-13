@@ -43,7 +43,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Email Media Team
             url: /general-enquiries
             style: secondary
             has_icon: true
