@@ -139,7 +139,7 @@ sections:
         actions_align: left
         actions_width: auto
       - type: grid_item
-        title: Burnaby//New West/ Tri-Cities
+        title: Burnaby/ New West/ Tri-Cities
         content_align: left
         actions: []
         actions_align: left
