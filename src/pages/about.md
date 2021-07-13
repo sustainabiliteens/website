@@ -167,6 +167,7 @@ sections:
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSeu9jkEoeBGdWiJUhX8PusRw_U-bokOnSxQgOs6sholKHHqvA/viewform
         style: primary
+        new_window: true
     align: center
     padding_top: medium
     padding_bottom: medium
