@@ -67,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: Modify Reccuring Donation
+          - label: Edit Reccuring Donation
             url: '#'
             style: secondary
             has_icon: false
