@@ -36,9 +36,8 @@ sections:
       - type: grid_item
         title: Media Relations
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Action updates and interview + filming requests
         content_align: center
         actions:
           - type: action
