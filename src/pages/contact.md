@@ -61,7 +61,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Manage Donation
+            label: Email Finance Team
             url: /general-enquiries
             style: primary
             has_icon: true
