@@ -165,8 +165,7 @@ sections:
       - type: action
         label: Join Sustainabiliteens
         url: >-
-          We understand that we will make mistakes and commit to learning from
-          them.
+          https://docs.google.com/forms/d/e/1FAIpQLSeu9jkEoeBGdWiJUhX8PusRw_U-bokOnSxQgOs6sholKHHqvA/viewform
         style: primary
     align: center
     padding_top: medium
