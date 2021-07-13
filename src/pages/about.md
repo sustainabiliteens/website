@@ -57,10 +57,57 @@ sections:
           #### We are open and accountable
 
 
+          *   We accept all youth who choose to abide by our principles,
+          regardless of experience.
+
+
+          *   We openly and transparently communicate about roles and structure.
+
+
+          *   We make decisions founded on democracy and collective need.
+
+
+          *   We are accountable to tasks and to one another, recognizing that
+          this requires us to be self-aware of our own capacities.
+
+
           #### We are a strong and supportive community
 
 
+          *   We take care of ourselves, each other and our shared home.
+
+
+          *   We work to cultivate strong relationships.
+
+
+          *   We bring revolutionary joy to our organizing!
+
+
+          *   We are conscious and vocal of our own needs, and the needs of
+          those around us.
+
+
+          *   We assume best intent and welcome different capacities.
+
+
           #### We are always trying to grow and improve
+
+
+          *   We are continuously learning and educating ourselves about the
+          world around us.
+
+
+          *   We are open to trying new things and challenging ourselves, as
+          individuals and as a collective.
+
+
+          *   We recognize that we are part of an ever-changing world, and
+          commit to re-evaluating and adapting in order to evolve our movement
+          and ourselves.
+
+
+          *   We understand that we will make mistakes and commit to learning
+          from them.
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
