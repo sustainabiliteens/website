@@ -60,7 +60,8 @@
                 "type": "action",
                 "label": "Join",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSeu9jkEoeBGdWiJUhX8PusRw_U-bokOnSxQgOs6sholKHHqvA/viewform",
-                "style": "secondary"
+                "style": "secondary",
+                "new_window": true
             },
             {
                 "type": "action",
