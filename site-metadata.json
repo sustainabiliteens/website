@@ -59,7 +59,7 @@
             {
                 "type": "action",
                 "label": "Join",
-                "url": "/contact",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSeu9jkEoeBGdWiJUhX8PusRw_U-bokOnSxQgOs6sholKHHqvA/viewform",
                 "style": "secondary"
             },
             {
