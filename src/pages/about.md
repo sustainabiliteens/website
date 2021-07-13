@@ -9,49 +9,58 @@ sections:
     features:
       - type: feature
         title: Our Principles
-        content: |
-          ### We are a movement to stop climate change and reclaim democracy
+        content: >
+          #### We are a movement to stop climate change and reclaim democracy
 
 
-           
-           
-           
-           
-           
-           
-
-          ### We believe in equity and dignity for all
+          *   We believe in a just transition for all.
 
 
-           
-           
-           
-           
-
-          ### We are open and accountable
+          *   We recognize the need to restructure the broken system we live
+          within.
 
 
-           
-           
-           
-           
-
-          ### We are a strong and supportive community
+          *   We believe in the power of direct action, while remaining
+          non-violent in word and deed.
 
 
-           
-           
-           
-           
-           
-
-          ### We are always trying to grow and improve
+          *   We organize with an understanding that we live on stolen land,
+          within a colonial system that needs to be dismantled.
 
 
-           
-           
-           
-           
+          *   We stand with other movements for change, while grounding
+          ourselves in our own story and purpose
+
+
+          *   We will not give up, despite the fear and grief that we all feel
+          in our day-to-day lives.
+
+
+          #### We believe in equity and dignity for all
+
+
+          *   We organize around the principle that each person is fundamentally
+          equal.
+
+
+          *   We recognize that we exist in structures which disproportionately
+          harm marginalized communities.
+
+
+          *   We organize with empathy and kindness.
+
+
+          *   We hold space for many different stories to be heard, told by
+          people from all different walks of life.
+
+
+          #### We are open and accountable
+
+
+          #### We are a strong and supportive community
+
+
+          #### We are always trying to grow and improve
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
