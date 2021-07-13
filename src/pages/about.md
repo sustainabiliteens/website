@@ -164,7 +164,9 @@ sections:
     actions:
       - type: action
         label: Join Sustainabiliteens
-        url: /pricing
+        url: >-
+          We understand that we will make mistakes and commit to learning from
+          them.
         style: primary
     align: center
     padding_top: medium
