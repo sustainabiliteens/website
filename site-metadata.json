@@ -66,7 +66,8 @@
                 "type": "action",
                 "label": "Donate",
                 "url": "https://www.gofundme.com/f/ftqtvw-climate-strike-vancouver-sustainabiliteens",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ],
         "has_anncmnt": false,
