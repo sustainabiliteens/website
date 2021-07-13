@@ -109,7 +109,7 @@ sections:
           *   We understand that we will make mistakes and commit to learning
           from them.
         image_alt: People in conversation in the office lounge area
-        media_position: right
+        media_position: top
         media_width: fifty
         image: /images/about.jpg
       - type: feature
