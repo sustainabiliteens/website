@@ -87,7 +87,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: Our Regional Groups
     grid_items:
       - type: grid_item
         title: Some City
