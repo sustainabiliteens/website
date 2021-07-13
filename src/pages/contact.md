@@ -22,7 +22,7 @@ sections:
         content_align: center
         actions:
           - type: action
-            label: Get Support
+            label: Email Us
             url: /general-enquiries
             style: primary
             has_icon: true
