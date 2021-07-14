@@ -108,18 +108,24 @@ sections:
 
           *   We understand that we will make mistakes and commit to learning
           from them.
-        image_alt: People in conversation in the office lounge area
+        image_alt: Sustainabiliteens members gather in a circle prior to a chalking action.
         media_position: top
         media_width: fifty
         image: /images/about.jpg
       - type: feature
         title: Our Story
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          A stable civilization needs a stable climate: everything that we see, hear, know and love is built on this foundation. Now, we are facing ecological collapse, which is devastating our natural systems and upending life as we know it. Communities across the country are suffering, with working class people, Indigenous people, and people of colour bearing the brunt of the crisis. Here in BC, recent summers have been choked by record-breaking wildfires tearing through wide swaths of our province. While this is happening, our government continues to prioritize corporations over human lives. Unless we take immediate and decisive action to stop burning fossil fuels and create a sustainable economy, **this chaos will become our new reality.**
+
+          We are finally talking about solutions which can stop this crisis and bring about prosperity. With wind and solar cheaper than polluting oil and gas, we can fill our cities with clean and affordable homes—for everyone. We can have accessible, efficient, and affordable public transportation. In schools, our voices and our collective power could be prioritized. COVID-19 has opened our imaginations: we now know that it is possible to value human lives over maintaining economic &quot;normalcy.&quot; If we redirected political will, **we could unite generations behind a new era which would leave no one behind.**
+
+          We know this world is possible. But right now, it is being held back from us by the current government—who acts as though it is accountable to polluting oil and gas corporations instead of us, the people. Corporations are required to pursue profit over anything else. They justify their actions by pretending that we cannot escape our extractive economy, even though it harms workers and all life on earth. To keep this story going, they have convinced us that our wellbeing is separate from that of our natural world. We know that these are lies, **enabling a small group of people to profit while the rest of us face an uncertain and dangerous future.**
+
+          We are taught in school that the government exists to protect the people, but their actions show that they do not represent our generation. Instead, they protect corporations by feeding us the same old lines: they say that some of our communities do not deserve to thrive. They say some parents must choose between a dangerous and polluting job or no job at all. In schools, rather than giving us the support we need, we are told to change to fit someone else&#39;s version of ourselves. Instead of learning how to combine our strengths to create a better world, they forcibly isolate us and make us think that we cannot change our reality. **We are told not to think about anyone but ourselves, but we will not be divided.**
+
+          Over the past two years, teenagers from across Metro Vancouver have come together, flooding the streets to demand the safe and just future we deserve. We are scared about what the climate crisis will take from us and grieving for what it already has. But we are overcoming our fear by gathering in community and organizing in our homes, coffee shops and libraries. Our collective responses to crises like COVID-19 have shown us that we can alter our priorities to protect the lives of our neighbours. We know that our connections are stronger than the wealth of corporations. If we unite by the thousands, we can reclaim our democracy and lay the foundations for a better world. **Each of us has a choice: do we continue with the story we are told, or do we come together to shape a new reality?**
         image: /images/van-cty-hall.jpg
-        image_alt: People in a conference room
+        image_alt: Sustainabiliteens organizers in Vancouver gather outside of City Hall in October 2020 to promote the City's Climate Emergency Action Plan, which passed the following month.
         media_position: top
         media_width: fifty
   - type: grid_section
